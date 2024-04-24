@@ -83,7 +83,7 @@ class Trip:
         self.end_location = end_location
 
     def print_info(self):
-        print(f"Trip ID: {self.trip_id}, Start Time: {self.start_time}, End Time: {self.end_time}, Start Location: {self.start_location}, End Location: {self.end_location}, Status: {self.status}")
+        print(f"Trip ID: {self.trip_id}, Start Time: {self.start_time}, End Time: {self.end_time}, Start Location: {self.start_location}, End Location: {self.end_location}")
 
 """
 Clase que representa un pago realizado
