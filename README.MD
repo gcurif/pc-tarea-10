@@ -6,31 +6,7 @@ Para ejecutar, ejecutar el archivo main.py desde vscode o con:
 `python main.py`
 
 # Estructura de carpetas
-La estructura de carpetas es la siguiente:
-
-├── model
-│   ├── uber
-│   │   └── dto.py
-│   └── otro
-│       └── dto.py
-├── function
-│   ├── uber
-│   │   └── get_data.py
-│   └── otro
-│       └── get_data.py
-├── json_examples
-│   ├── uber
-│   │   ├── user.json
-│   │   ├── vehicle.json
-│   │   └── ... .json
-│   └── otro
-│       ├── example1.json
-│       ├── example2.json
-│       └── ....json
-└── main.py
-
-### Descripción de archivos
-La aplicación se divide en 3 carpetas y un main.py:
+La estructura de carpetas es la siguiente, la aplicación se divide en 3 carpetas y un main.py:
 
 * model: definición del modelo, vale decir, las clases de la aplicación
 * function: la parte funcional de la aplicación, ejecución de código y lógica
