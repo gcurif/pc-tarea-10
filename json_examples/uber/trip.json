@@ -1,0 +1,9 @@
+{
+    "trip_id": 201,
+    "user_id": 1,
+    "driver_id": 4,
+    "start_time": "2021-05-01 08:00:00",
+    "end_time": "2021-05-01 08:30:00",
+    "start_location": "123 Elm St",
+    "end_location": "City Mall"
+}

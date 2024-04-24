@@ -1,0 +1,8 @@
+{
+    "payment_id": 301,
+    "user_id": 1,
+    "amount": 25.00,
+    "payment_method": "Credit Card",
+    "payment_status": "Paid",
+    "trip_id": 201
+}
