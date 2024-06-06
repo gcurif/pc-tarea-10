@@ -1,0 +1,10 @@
+{
+    "user_id": 4,
+    "username": "mikeJohnson",
+    "email": "mike@example.com",
+    "phone": "9876543210",
+    "password": "hello123",
+    "address": "321 Cedar St",
+    "payment_info": "Visa 4321"
+    
+    }
