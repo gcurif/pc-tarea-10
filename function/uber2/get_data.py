@@ -2,7 +2,7 @@ from models.uber2.dto import *
 ###wenas###
 
 def showUberData():
-
+###CHUPALOMPASTABASE###
     print("Mostrando Usuarios:")
 
     usuario = User(user_id=1, username="johnDoe", email="john@example.com", phone="1234567890", password="password123", address="123 Elm St", payment_info="Visa 9876")
